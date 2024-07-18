@@ -14,10 +14,9 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-<<<<<<< HEAD
 |**2024-07-17**|**Theoretical study of the influence of the photosynthetic membrane on B800-B850 energy transfer within the peripheral light-harvesting complex LH2**|Chawntell Kulkarni et.al.|[2407.12591](http://arxiv.org/abs/2407.12591)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
-|**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|Aur¨¦lien Urbes et.al.|[2407.12368](http://arxiv.org/abs/2407.12368)|null|
+|**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|AurÃ©lien Urbes et.al.|[2407.12368](http://arxiv.org/abs/2407.12368)|null|
 |**2024-07-17**|**Scaling Properties of Gelling Systems in Nonlinear Shear Experiments**|Ameur Louhichi et.al.|[2407.12367](http://arxiv.org/abs/2407.12367)|null|
 |**2024-07-16**|**Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**|Leo Klarner et.al.|[2407.11942](http://arxiv.org/abs/2407.11942)|**[link](https://github.com/leojklarner/context-guided-diffusion)**|
 |**2024-07-16**|**Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**|Carlos D. Alas et.al.|[2407.11758](http://arxiv.org/abs/2407.11758)|null|
@@ -35,18 +34,6 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 |**2024-07-10**|**Daisy: An integrated repeat protein curation service**|Manuel Bezerra-Brandao et.al.|[2407.07817](http://arxiv.org/abs/2407.07817)|null|
 |**2024-07-10**|**Direct estimation and inference of higher-level correlations from lower-level measurements with applications in gene-pathway and proteomics studies**|Yue Wang et.al.|[2407.07809](http://arxiv.org/abs/2407.07809)|null|
 |**2024-07-10**|**High-Performance Sorting-Based k-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**|Yifan Li et.al.|[2407.07718](http://arxiv.org/abs/2407.07718)|null|
-=======
-|**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671](http://arxiv.org/abs/2407.12671)|**[link](https://github.com/manoskary/graphmuse)**|
-|**2024-07-17**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421](http://arxiv.org/abs/2407.12421)|null|
-|**2024-07-17**|**Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions**|Christian Nauck et.al.|[2407.12419](http://arxiv.org/abs/2407.12419)|null|
-|**2024-07-17**|**Urban Traffic Forecasting with Integrated Travel Time and Data Availability in a Conformal Graph Neural Network Framework**|Mayur Patil et.al.|[2407.12238](http://arxiv.org/abs/2407.12238)|null|
-|**2024-07-16**|**Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for Molecular Graph Classification**|Jakub Adamczyk et.al.|[2407.12136](http://arxiv.org/abs/2407.12136)|null|
-|**2024-07-16**|**Graph Neural Network-Based Track Finding in the LHCb Vertex Detector**|Anthony Correia et.al.|[2407.12119](http://arxiv.org/abs/2407.12119)|null|
-|**2024-07-16**|**A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113](http://arxiv.org/abs/2407.12113)|null|
-|**2024-07-16**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**|Tanvir Hossain et.al.|[2407.11928](http://arxiv.org/abs/2407.11928)|null|
-|**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764](http://arxiv.org/abs/2407.11764)|null|
-|**2024-07-16**|**Rethinking Fair Graph Neural Networks from Re-balancing**|Zhixun Li et.al.|[2407.11624](http://arxiv.org/abs/2407.11624)|**[link](https://github.com/zhixunlee/fairgb)**|
->>>>>>> 1a37d5dfaf1b76a83ed735c4e784bee49cd13131
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/graphs/contributors

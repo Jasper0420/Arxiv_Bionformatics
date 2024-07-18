@@ -19,7 +19,7 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 |---|---|---|---|---|
 |**2024-07-17**|**Theoretical study of the influence of the photosynthetic membrane on B800-B850 energy transfer within the peripheral light-harvesting complex LH2**|Chawntell Kulkarni et.al.|[2407.12591](http://arxiv.org/abs/2407.12591)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
-|**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|Aur��lien Urbes et.al.|[2407.12368](http://arxiv.org/abs/2407.12368)|null|
+|**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|Aurélien Urbes et.al.|[2407.12368](http://arxiv.org/abs/2407.12368)|null|
 |**2024-07-17**|**Scaling Properties of Gelling Systems in Nonlinear Shear Experiments**|Ameur Louhichi et.al.|[2407.12367](http://arxiv.org/abs/2407.12367)|null|
 |**2024-07-16**|**Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**|Leo Klarner et.al.|[2407.11942](http://arxiv.org/abs/2407.11942)|**[link](https://github.com/leojklarner/context-guided-diffusion)**|
 |**2024-07-16**|**Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**|Carlos D. Alas et.al.|[2407.11758](http://arxiv.org/abs/2407.11758)|null|
