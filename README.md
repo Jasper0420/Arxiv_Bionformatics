@@ -48,8 +48,6 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 <p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
-## USage Instructions 
-> Usage instructions: [here](./docs/README.md#usage)
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
@@ -58,6 +56,3 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 [stars-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [issues-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/issues
-
-## USage Instructions 
-> Usage instructions: [here](./docs/README.md#usage)
