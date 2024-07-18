@@ -1,11 +1,11 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Jasper0420"
-repo_name: "arxiv-papers-daily"
+repo_name: "Arxiv_Bionformatics"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Protein Structure":
-        filters: ["protein structure","protein language models",
-                  "gnn"," DNA-language"]
+        filters: ["Protein","AlphaFlow",
+                  "structure prediction","protein ensembles generation"]
    
