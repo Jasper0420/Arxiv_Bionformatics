@@ -58,4 +58,4 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 [issues-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/issues
 
 ## USage Instructions 
-> Usage instructions: [here](./docs/README.md)
+> Usage instructions: [here](https://github.com/Jasper0420/Arxiv_Bionformatics/docs/README.md#usage)
