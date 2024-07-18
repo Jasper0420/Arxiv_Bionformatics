@@ -22,9 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Bionformatics":
+    "Protein Structure":
         filters: ["protein structure","protein language models",
-                  "gnn"," surface"]
-    "Biosynthetic":
-        filters: ["DNA-language","bgc","deeplearning"]
-
+                  "gnn"," DNA-language"]
+   
