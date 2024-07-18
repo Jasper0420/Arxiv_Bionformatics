@@ -300,7 +300,7 @@ def json_to_md(filename,md_filename,
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("# Updated on " + DateNow_color + "\n")
             f.write("## Website "  + "\n")
-            f.write("You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)"  + "\n")
+            f.write("You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionformatics/)"  + "\n")
         else:
             f.write("> Updated on " + DateNow_color + "\n")
 
@@ -351,21 +351,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge\n"))
+                     f"contributors/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Jasper0420/"
-                     f"arxiv-papers-daily/graphs/contributors\n"))
+                     f"Arxiv_Bionformatics/graphs/contributors\n"))
             f.write((f"[forks-shield]: https://img.shields.io/github/forks/Jasper0420/"
-                     f"arxiv-papers-daily.svg?style=for-the-badge\n"))
+                     f"Arxiv_Bionformatics.svg?style=for-the-badge\n"))
             f.write((f"[forks-url]: https://github.com/Jasper0420/"
-                     f"arxiv-papers-daily/network/members\n"))
+                     f"Arxiv_Bionformatics/network/members\n"))
             f.write((f"[stars-shield]: https://img.shields.io/github/stars/Jasper0420/"
-                     f"arxiv-papers-daily.svg?style=for-the-badge\n"))
+                     f"Arxiv_Bionformatics.svg?style=for-the-badge\n"))
             f.write((f"[stars-url]: https://github.com/Jasper0420/"
-                     f"arxiv-papers-daily/stargazers\n"))
+                     f"Arxiv_Bionformatics/stargazers\n"))
             f.write((f"[issues-shield]: https://img.shields.io/github/issues/Jasper0420/"
-                     f"arxiv-papers-daily.svg?style=for-the-badge\n"))
+                     f"Arxiv_Bionformatics.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/Jasper0420/"
-                     f"arxiv-papers-daily/issues\n\n"))
+                     f"Arxiv_Bionformatics/issues\n\n"))
 
         if use_usage == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
