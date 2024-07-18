@@ -5,7 +5,7 @@
 
 # Updated on <span style='color:orange;'>2024.07.18</span>
 ## Website 
-You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
+You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionformatics/)
 <details open>
   <summary>Table of Contents</summary>
   <ol>
@@ -56,3 +56,6 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 [stars-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [issues-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/issues
+
+## USage Instructions 
+> Usage instructions: [here](./docs/README.md#usage)
