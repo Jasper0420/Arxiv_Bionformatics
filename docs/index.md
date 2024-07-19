@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.18</span>
+# Updated on <span style='color:orange;'>2024.07.19</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionformatics/)
 ## Protein Structure
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|null|
+|**2024-07-17**|**A Three-Stage Algorithm for the Closest String Problem on Artificial and Real Gene Sequences**|Alireza Abdi et.al.|[2407.13023](http://arxiv.org/abs/2407.13023)|null|
 |**2024-07-17**|**Theoretical study of the influence of the photosynthetic membrane on B800-B850 energy transfer within the peripheral light-harvesting complex LH2**|Chawntell Kulkarni et.al.|[2407.12591](http://arxiv.org/abs/2407.12591)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
 |**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|Aurélien Urbes et.al.|[2407.12368](http://arxiv.org/abs/2407.12368)|null|
@@ -23,7 +25,7 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 |**2024-07-16**|**A PLMs based protein retrieval framework**|Yuxuan Wu et.al.|[2407.11548](http://arxiv.org/abs/2407.11548)|null|
 |**2024-07-16**|**Using recurrent neural networks to predict aspects of 3-D structure of folded copolymer sequences**|R. G. Reilly et.al.|[2407.11493](http://arxiv.org/abs/2407.11493)|null|
 |**2024-07-16**|**Repurformer: Transformers for Repurposing-Aware Molecule Generation**|Changhun Lee et.al.|[2407.11439](http://arxiv.org/abs/2407.11439)|null|
-|**2024-07-15**|**Flow Perturbation to Accelerate Unbiased Sampling of Boltzmann distribution**|Xin Peng et.al.|[2407.10666](http://arxiv.org/abs/2407.10666)|null|
+|**2024-07-15**|**Flow Perturbation to Accelerate Unbiased Sampling of Boltzmann distribution**|Xin Peng et.al.|[2407.10666](http://arxiv.org/abs/2407.10666)|**[link](https://github.com/XinPeng76/Flow_Perturbation)**|
 |**2024-07-15**|**GraphPrint: Extracting Features from 3D Protein Structure for Drug Target Affinity Prediction**|Amritpal Singh et.al.|[2407.10452](http://arxiv.org/abs/2407.10452)|null|
 |**2024-07-17**|**LAB-Bench: Measuring Capabilities of Language Models for Biology Research**|Jon M. Laurent et.al.|[2407.10362](http://arxiv.org/abs/2407.10362)|null|
 |**2024-07-14**|**Structural Dynamics of Contractile Injection Systems**|Noah Toyonaga et.al.|[2407.10291](http://arxiv.org/abs/2407.10291)|null|
