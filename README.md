@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.19</span>
+# Updated on <span style='color:orange;'>2024.07.22</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionformatics/)
 <details open>
@@ -17,7 +17,7 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|null|
+|**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
 |**2024-07-17**|**A Three-Stage Algorithm for the Closest String Problem on Artificial and Real Gene Sequences**|Alireza Abdi et.al.|[2407.13023](http://arxiv.org/abs/2407.13023)|null|
 |**2024-07-17**|**Theoretical study of the influence of the photosynthetic membrane on B800-B850 energy transfer within the peripheral light-harvesting complex LH2**|Chawntell Kulkarni et.al.|[2407.12591](http://arxiv.org/abs/2407.12591)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
@@ -34,13 +34,13 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 |**2024-07-14**|**Structural Dynamics of Contractile Injection Systems**|Noah Toyonaga et.al.|[2407.10291](http://arxiv.org/abs/2407.10291)|null|
 |**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274](http://arxiv.org/abs/2407.09274)|**[link](https://github.com/PaddlePaddle/PaddleHelix)**|
 |**2024-07-12**|**High throughput screening, crystal structure prediction, and carrier mobility calculations of organic molecular semiconductors as hole transport layer materials in perovskite solar cells**|Md Omar Faruque et.al.|[2407.08957](http://arxiv.org/abs/2407.08957)|null|
-|**2024-07-12**|**Directed Motion and Spatial Coherence in the Cell Nucleus**|M. Hidalgo-Soria et.al.|[2407.08899](http://arxiv.org/abs/2407.08899)|null|
+|**2024-07-12**|**Directed Motion and Spatial Coherence in the Cell Nucleus**|M. Hidalgo-Soria et.al.|[2407.08899](http://arxiv.org/abs/2407.08899)|**[link](https://github.com/mariohidalgosoria/telomeres_dynamics)**|
 |**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631](http://arxiv.org/abs/2407.08631)|null|
 |**2024-07-10**|**Daisy: An integrated repeat protein curation service**|Manuel Bezerra-Brandao et.al.|[2407.07817](http://arxiv.org/abs/2407.07817)|null|
 |**2024-07-10**|**Direct estimation and inference of higher-level correlations from lower-level measurements with applications in gene-pathway and proteomics studies**|Yue Wang et.al.|[2407.07809](http://arxiv.org/abs/2407.07809)|null|
-|**2024-07-10**|**High-Performance Sorting-Based k-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**|Yifan Li et.al.|[2407.07718](http://arxiv.org/abs/2407.07718)|null|
+|**2024-07-10**|**High-Performance Sorting-Based k-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**|Yifan Li et.al.|[2407.07718](http://arxiv.org/abs/2407.07718)|**[link](https://github.com/CornellHPC/HySortK)**|
 
-<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/graphs/contributors
