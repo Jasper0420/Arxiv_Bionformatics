@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.29</span>
+# Updated on <span style='color:orange;'>2024.08.05</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionformatics/)
 <details open>
@@ -40,7 +40,7 @@ You can learn directly from this [page](https://jasper0420.github.io/Arxiv_Bionf
 |**2024-07-10**|**Direct estimation and inference of higher-level correlations from lower-level measurements with applications in gene-pathway and proteomics studies**|Yue Wang et.al.|[2407.07809](http://arxiv.org/abs/2407.07809)|null|
 |**2024-07-10**|**High-Performance Sorting-Based k-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**|Yifan Li et.al.|[2407.07718](http://arxiv.org/abs/2407.07718)|**[link](https://github.com/CornellHPC/HySortK)**|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/Arxiv_Bionformatics.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/Arxiv_Bionformatics/graphs/contributors
